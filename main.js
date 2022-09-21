@@ -2,28 +2,28 @@ function player()  {
     const musicas = [
         {
             nome: "Gorillaz-Fire Flies",
-            img: "Gorillaz18(fire flies).webp",
-            src: "Gorillaz - Fire Flies (Visualiser).mp3"
+            img: "public/Gorillaz18(fire flies).webp",
+            src: "musics/Gorillaz - Fire Flies (Visualiser).mp3"
         },
         {
             nome: "Joji-Slow Dance in the Dark",
-            img: "SLOW_DANCING_IN_THE_DARK.webp",
-            src: "Joji - SLOW DANCING IN THE DARK.mp3"
+            img: "public/SLOW_DANCING_IN_THE_DARK.webp",
+            src: "musics/Joji - SLOW DANCING IN THE DARK.mp3"
         },
         {
             nome: "Rex Orange County-Pluto Projector",
-            img: "st,small,845x845-pad,1000x1000,f8f8f8(pluto projector).jpg",
-            src: "Rex Orange County - Pluto Projector (Official Audio).mp3"
+            img: "public/st,small,845x845-pad,1000x1000,f8f8f8(pluto projector).jpg",
+            src: "musics/Rex Orange County - Pluto Projector (Official Audio).mp3"
         },
         {
             nome: "A Sad Song About a girl i no longer know",
-            img: "sddefault.jpg",
-            src: "charles irwin - a sad song about a girl i no longer know.m4a"
+            img: "public/sddefault.jpg",
+            src: "musics/charles irwin - a sad song about a girl i no longer know.m4a"
         },
         {
             nome: "Tyler the Creator-IFHY",
-            img: "ifhy.jpg",
-            src: "IFHY (Feat. Pharrell) - Tyler, The Creator.mp3"
+            img: "public/ifhy.jpg",
+            src: "musics/IFHY (Feat. Pharrell) - Tyler, The Creator.mp3"
         }
     ]
     
