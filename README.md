@@ -1,4 +1,10 @@
 # Player De Musicas
 
+Link para o projeto: https://samuellucasn.github.io/PlayerDeMusicas/
 
- você pode ver o ebsite aqui:
+# Tecnologias:
+- HTML5
+- CSS
+- Javascript
+- Flexbox
+- Font Awesome
